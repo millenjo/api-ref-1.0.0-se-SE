@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "subscriptionId": {
+      "format": "uuid",
+      "type": "string"
+    },
+    "externalReference": {
+      "type": "string"
+    },
+    "order": {
+      "$ref": "#/definitions/Dibs.PaymentApi.Contracts.V1.Order"
+    }
+  }
+}
