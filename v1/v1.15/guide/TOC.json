@@ -1,8 +1,11 @@
-{
+{[
   "name": "Overview",
   "href": "overview.md",
+},{
+  "name": "Checkout",
+  "href": "checkout-api.md"
   "items": [{
     "name": "Payment",
     "href": "payment-api.md"
   }]
-}
+}]
