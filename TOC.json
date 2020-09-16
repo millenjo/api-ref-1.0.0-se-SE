@@ -1,6 +1,6 @@
 {
   "name": "Overview",
-  "href": "overview.md",.
+  "href": "overview.md",
   "items": [{
     "name": "Payment",
     "href": "payment-api.md"
